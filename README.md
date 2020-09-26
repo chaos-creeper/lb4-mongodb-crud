@@ -1,3 +1,10 @@
+# comandos de creación
+  lb4 app
+  lb4 model
+  lb4 datasource
+  lb4 repository
+  lb4 controller
+
 # lb4-mongodb-crud
 
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
